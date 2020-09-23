@@ -1,0 +1,13 @@
+B
+1.Mit jelent a <!DOCTYPE html> elem
+V:Azt, hogy html 5-ös kódolású
+
+2.Hogyan definiáljuk a belső stílust a head elemben.
+V:  "Style" 
+    pl:háttérszín
+       betűszín
+       betű formázás
+       list-style-type
+
+2.Emmet utasítás
+<p>Példa: <span Ez itt egy példa /span></p>

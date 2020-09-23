@@ -1,4 +1,0 @@
-Microsoft Management Console
-nyelv kiválasztás, pénznem beállítása, idő beállítása, dátum beállítása és rövid dátum beállítása
-Hozzá tudunk férni perifériákhoz
-elfogy a ram ahoz nyúl az OP rendszer
